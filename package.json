@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "acorn": "^5.7.4",
     "bcrypt": "^1.0.3",
     "bson": "^1.0.9",
     "config": "^1.29.4",
