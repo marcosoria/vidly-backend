@@ -30,7 +30,7 @@
     "minimist": "^1.2.5",
     "moment": "^2.20.1",
     "mongoose": "^5.9.5",
-    "mpath": "^0.5.1",
+    "mpath": "^0.8.4",
     "nwmatcher": "^1.4.4",
     "winston": "^2.4.0",
     "winston-mongodb": "^3.0.0"
